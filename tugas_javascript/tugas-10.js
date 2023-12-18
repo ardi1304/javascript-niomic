@@ -10,11 +10,3 @@ function tugas10(){
 tugas10();
 
 
-// let currentNumber = 1;
-// let increment = 2;
-
-// for (let i = 1; i <= 10; i++) {
-//   console.log(currentNumber);
-//   currentNumber += increment;
-//   increment++;
-// }
