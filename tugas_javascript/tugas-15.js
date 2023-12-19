@@ -14,6 +14,6 @@ const nilaiBC = 6;
 const panjangACSegitiga = panjangAC(nilaiAB, nilaiBC);
 
 // Menampilkan output
-console.log(`Nilai AB = ${nilaiAB}`);
-console.log(`Nilai BC = ${nilaiBC}`);
-console.log(`Panjang sisi AC pada segitiga siku-siku tersebut adalah = ${panjangACSegitiga}` + ' cm');
+console.log('Nilai AB = ' + (nilaiAB));
+console.log('Nilai BC = ' + (nilaiBC));
+console.log('Panjang sisi AC pada segitiga siku-siku tersebut adalah = ' + (panjangACSegitiga) + ' cm');
