@@ -7,6 +7,7 @@ function tugas17(){
     console.log(kata1.toLocaleUpperCase());
     console.log(kata2.toLocaleLowerCase());
     console.log(kata2.toLocaleUpperCase());
+    
     let kata4 = kata3.substring(0, 6);
     let kodeASCII = [];
     for (let i = 0; i < kata4.length; i++){
