@@ -28,11 +28,13 @@ ubah();
 function posisiKarakter(){
     var poskrktr = 'Nama Saya Ardi';
     console.log(poskrktr.charAt(13));
-    console.log(poskrktr.substring(10, 14));
+    console.log(poskrktr.substring(10, 14)); //Latihan 24 Substring
 }
 posisiKarakter();
 
-//Latihan24 Substr : menampilakn karakter sesuai urutan yang di inginkan
-// function substring(){
-//     var 
-// }
+//Latihan 31 string includes : hasil dari string ini adalah boolean
+function ejaan(){
+    var inc = 'perjalan hidup';
+     console.log(inc.includes('Jalan'));
+}
+ejaan();
