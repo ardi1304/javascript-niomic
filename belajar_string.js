@@ -45,3 +45,10 @@ function startEnd(){
     console.log(kata.startsWith("pertumbuhan"));
 }
 startEnd();
+
+//latihan 33 repeat : mengulang suatu karakter sesuai yang kita inginkan
+function ulang(){
+    var isi = "cukup...sudah...";
+    console.log(isi.repeat(3));
+}
+ulang();
