@@ -38,3 +38,10 @@ function ejaan(){
      console.log(inc.includes('Jalan'));
 }
 ejaan();
+
+//latihan 32 start with dan end with : menunjukan hasil boolean dari kata akhir atau kata depan yang ditentukan
+function startEnd(){
+    var kata = "pertumbahan ekonomi massive";
+    console.log(kata.startsWith("pertumbuhan"));
+}
+startEnd();
