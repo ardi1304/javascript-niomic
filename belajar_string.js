@@ -52,3 +52,12 @@ function ulang(){
     console.log(isi.repeat(3));
 }
 ulang();
+
+//latihan 35 fungsi konversi string
+function konversi(){
+    var kon = new String('Belajar Kuy..');
+    console.log(typeof kon);
+    console.log(kon);
+    var konf = kon.toString
+}
+konversi();
